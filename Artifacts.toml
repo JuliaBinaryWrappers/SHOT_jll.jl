@@ -1,0 +1,228 @@
+[[SHOT]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "429531a86b20fe96ab05350af89fc0a32afd92cb"
+libc = "glibc"
+os = "linux"
+
+    [[SHOT.download]]
+    sha256 = "69f551a169f0d2c6c2804a714ccaadb9bc8166dba97a142cb226a3c3924b7146"
+    url = "https://github.com/JuliaBinaryWrappers/SHOT_jll.jl/releases/download/SHOT-v1.0.1+0/SHOT.v1.0.1.aarch64-linux-gnu-cxx03.tar.gz"
+[[SHOT]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "496bb17913cab87d13c945d8e913c62c334ff819"
+libc = "glibc"
+os = "linux"
+
+    [[SHOT.download]]
+    sha256 = "061485b9d661abf2d215454ca713c9f8882510a49e19a305a92047f93818b849"
+    url = "https://github.com/JuliaBinaryWrappers/SHOT_jll.jl/releases/download/SHOT-v1.0.1+0/SHOT.v1.0.1.aarch64-linux-gnu-cxx11.tar.gz"
+[[SHOT]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "5599bb48686f731fce1be5fb59243b0b29fdfe21"
+libc = "musl"
+os = "linux"
+
+    [[SHOT.download]]
+    sha256 = "d6c574aec76abd1976462d73e85eaf16dfe25523d7ca5aeee9ff28d8226b5f4c"
+    url = "https://github.com/JuliaBinaryWrappers/SHOT_jll.jl/releases/download/SHOT-v1.0.1+0/SHOT.v1.0.1.aarch64-linux-musl-cxx03.tar.gz"
+[[SHOT]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1913d745a41ce17926f158d4d2ce788680da8264"
+libc = "musl"
+os = "linux"
+
+    [[SHOT.download]]
+    sha256 = "ec6c2d2301b16bc6562095aba3390b886a4bf0bacf35d51ee98002dc921ae973"
+    url = "https://github.com/JuliaBinaryWrappers/SHOT_jll.jl/releases/download/SHOT-v1.0.1+0/SHOT.v1.0.1.aarch64-linux-musl-cxx11.tar.gz"
+[[SHOT]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3524b6ea935feb968d755934bd7073a14f6da2ee"
+libc = "glibc"
+os = "linux"
+
+    [[SHOT.download]]
+    sha256 = "80d0ecb6c3288bad1c7e2a4f627aa4b647daa8e92c55dafd39543950b153ac7b"
+    url = "https://github.com/JuliaBinaryWrappers/SHOT_jll.jl/releases/download/SHOT-v1.0.1+0/SHOT.v1.0.1.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[SHOT]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8577023d97f9e834c39d494c5bd1bbabddb7b4ab"
+libc = "glibc"
+os = "linux"
+
+    [[SHOT.download]]
+    sha256 = "801f0361360a7d2be1324d916df0f734719785f506862ce1b1fd9b3564a7df29"
+    url = "https://github.com/JuliaBinaryWrappers/SHOT_jll.jl/releases/download/SHOT-v1.0.1+0/SHOT.v1.0.1.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[SHOT]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "10f8defb408741fd32c9e3f18868625ac4ce9254"
+libc = "musl"
+os = "linux"
+
+    [[SHOT.download]]
+    sha256 = "e8abee7718633fe427e65eed2fb2e2f2c6d7c0a8dab75cd6d889746cfbab45c7"
+    url = "https://github.com/JuliaBinaryWrappers/SHOT_jll.jl/releases/download/SHOT-v1.0.1+0/SHOT.v1.0.1.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[SHOT]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "139fb8a489b43043d8ff5c3ad09c263c21b0d878"
+libc = "musl"
+os = "linux"
+
+    [[SHOT.download]]
+    sha256 = "288597ff358f74f7ac65c4c9bfdde8afe44bb254abbb71850b3f65e877d6201c"
+    url = "https://github.com/JuliaBinaryWrappers/SHOT_jll.jl/releases/download/SHOT-v1.0.1+0/SHOT.v1.0.1.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[SHOT]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "91f7c26a3db3dd23bd2ff3e535b1c35820bae197"
+libc = "glibc"
+os = "linux"
+
+    [[SHOT.download]]
+    sha256 = "032b9e73c9f4ee7ab4af973c4cf85851e92b93ea977497802523492bc6468318"
+    url = "https://github.com/JuliaBinaryWrappers/SHOT_jll.jl/releases/download/SHOT-v1.0.1+0/SHOT.v1.0.1.i686-linux-gnu-cxx03.tar.gz"
+[[SHOT]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "655f3ba2e172baf723720e6c1e7f5246721a7a3c"
+libc = "glibc"
+os = "linux"
+
+    [[SHOT.download]]
+    sha256 = "26d37125fc849a6e9ca9dc458b628774e814cc89f91c61a392b823dc5d5cb1eb"
+    url = "https://github.com/JuliaBinaryWrappers/SHOT_jll.jl/releases/download/SHOT-v1.0.1+0/SHOT.v1.0.1.i686-linux-gnu-cxx11.tar.gz"
+[[SHOT]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e844cf3d48af40828de15879e5e0797434034423"
+libc = "musl"
+os = "linux"
+
+    [[SHOT.download]]
+    sha256 = "48a2a53a799f33ce02e7c0c418ef199ccd3b1ed5c9f2e8206c2c771b40a48fec"
+    url = "https://github.com/JuliaBinaryWrappers/SHOT_jll.jl/releases/download/SHOT-v1.0.1+0/SHOT.v1.0.1.i686-linux-musl-cxx03.tar.gz"
+[[SHOT]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c1690800ab6675b2c14bcf27d3a85452b724a8e0"
+libc = "musl"
+os = "linux"
+
+    [[SHOT.download]]
+    sha256 = "488e99448af63a2b3f0020c1fbf8583b6f2af3094626015004e001e5d3a52e3d"
+    url = "https://github.com/JuliaBinaryWrappers/SHOT_jll.jl/releases/download/SHOT-v1.0.1+0/SHOT.v1.0.1.i686-linux-musl-cxx11.tar.gz"
+[[SHOT]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "0cabde306cf9f69bf845b80b6cbb22d7a6860864"
+os = "windows"
+
+    [[SHOT.download]]
+    sha256 = "6aa873fbf196ce9c8274dc11083bd7cb1922ddf128c0de23e80969140d85545e"
+    url = "https://github.com/JuliaBinaryWrappers/SHOT_jll.jl/releases/download/SHOT-v1.0.1+0/SHOT.v1.0.1.i686-w64-mingw32-cxx03.tar.gz"
+[[SHOT]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "dfe63c33282243e4b87905a6b0b793ff63950de8"
+os = "windows"
+
+    [[SHOT.download]]
+    sha256 = "fddf2591a67041d7acbcd467c099c3229280de82f45ddcfda0b067247a73783f"
+    url = "https://github.com/JuliaBinaryWrappers/SHOT_jll.jl/releases/download/SHOT-v1.0.1+0/SHOT.v1.0.1.i686-w64-mingw32-cxx11.tar.gz"
+[[SHOT]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d0befc80c738f773027babe495f8b0b5f8ee936e"
+libc = "glibc"
+os = "linux"
+
+    [[SHOT.download]]
+    sha256 = "804955414bb0f6380eb33d070e080744645a7dfb8d05cdf4dfb8c34bd365993e"
+    url = "https://github.com/JuliaBinaryWrappers/SHOT_jll.jl/releases/download/SHOT-v1.0.1+0/SHOT.v1.0.1.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[SHOT]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "cad81ec08d59621dc7722fb7461e6d8630e12496"
+libc = "glibc"
+os = "linux"
+
+    [[SHOT.download]]
+    sha256 = "2d70c31dd435a9d1068529c1d99335ff99ec3bcc541fe5e871efaad40ed8ea8c"
+    url = "https://github.com/JuliaBinaryWrappers/SHOT_jll.jl/releases/download/SHOT-v1.0.1+0/SHOT.v1.0.1.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[SHOT]]
+arch = "x86_64"
+git-tree-sha1 = "87362f6edbf987ffa34f7ec129004d490018faaf"
+os = "macos"
+
+    [[SHOT.download]]
+    sha256 = "6e1d9fded858556c8b99336dd12e426ad50b4e7fc5a3cfa80a2ff8c7d85c7a7b"
+    url = "https://github.com/JuliaBinaryWrappers/SHOT_jll.jl/releases/download/SHOT-v1.0.1+0/SHOT.v1.0.1.x86_64-apple-darwin.tar.gz"
+[[SHOT]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1a30c7e67cb3bc202bc45095c83ea44d7a2afe86"
+libc = "glibc"
+os = "linux"
+
+    [[SHOT.download]]
+    sha256 = "30ffdeb5ff0ec09287e86dc59527bb309b7f76e2ccd0a243028aa7968fcece53"
+    url = "https://github.com/JuliaBinaryWrappers/SHOT_jll.jl/releases/download/SHOT-v1.0.1+0/SHOT.v1.0.1.x86_64-linux-gnu-cxx03.tar.gz"
+[[SHOT]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5b8221ae52a398fa0a2d447b172b271db43e868f"
+libc = "glibc"
+os = "linux"
+
+    [[SHOT.download]]
+    sha256 = "c0038daf5b34026429784a17659555b2877ade23fa193b22c08abb43b119b2f9"
+    url = "https://github.com/JuliaBinaryWrappers/SHOT_jll.jl/releases/download/SHOT-v1.0.1+0/SHOT.v1.0.1.x86_64-linux-gnu-cxx11.tar.gz"
+[[SHOT]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "873807badee12a0a66670d3115d26e7ec00c38af"
+libc = "musl"
+os = "linux"
+
+    [[SHOT.download]]
+    sha256 = "6f3483bc38337ac9eb52a4f511746f4862aba66dc060b7882c598b561162ef98"
+    url = "https://github.com/JuliaBinaryWrappers/SHOT_jll.jl/releases/download/SHOT-v1.0.1+0/SHOT.v1.0.1.x86_64-linux-musl-cxx03.tar.gz"
+[[SHOT]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "eff56ea5b1385400ebdde3d86e4ca5abbfde22a9"
+libc = "musl"
+os = "linux"
+
+    [[SHOT.download]]
+    sha256 = "554feb51c938d50afe8720540380163112cd265b85843297df6304450fe8599e"
+    url = "https://github.com/JuliaBinaryWrappers/SHOT_jll.jl/releases/download/SHOT-v1.0.1+0/SHOT.v1.0.1.x86_64-linux-musl-cxx11.tar.gz"
+[[SHOT]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "de2ae5db7dbac7808f8da51920eeed0792df814c"
+os = "windows"
+
+    [[SHOT.download]]
+    sha256 = "77a9a89ec226ce8c6c9d052c56678d38433a6673d1813aa8f8cce1bc7431ac2d"
+    url = "https://github.com/JuliaBinaryWrappers/SHOT_jll.jl/releases/download/SHOT-v1.0.1+0/SHOT.v1.0.1.x86_64-w64-mingw32-cxx03.tar.gz"
+[[SHOT]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "41bfd2aa23cb80a30a3fb4b1bbbe938f4e5e491c"
+os = "windows"
+
+    [[SHOT.download]]
+    sha256 = "6cd06fa7eee9fe51b4db418663b2e4efa0546bde3da72f25476075900516de0e"
+    url = "https://github.com/JuliaBinaryWrappers/SHOT_jll.jl/releases/download/SHOT-v1.0.1+0/SHOT.v1.0.1.x86_64-w64-mingw32-cxx11.tar.gz"
