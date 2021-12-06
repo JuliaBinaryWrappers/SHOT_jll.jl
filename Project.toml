@@ -1,6 +1,6 @@
 name = "SHOT_jll"
 uuid = "c1ab834c-c4a5-50f5-9156-8f0fe7758b0e"
-version = "1.0.1+2"
+version = "100.100.0+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
@@ -15,3 +15,5 @@ Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
 [compat]
 JLLWrappers = "1.2.0"
 julia = "1.6"
+Ipopt_jll = "300.1400.400"
+Cbc_jll = "200.1000.501"

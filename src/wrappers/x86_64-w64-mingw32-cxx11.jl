@@ -6,19 +6,19 @@ using Cbc_jll
 using Ipopt_jll
 using CompilerSupportLibraries_jll
 JLLWrappers.@generate_wrapper_header("SHOT")
-JLLWrappers.@declare_executable_product(amplexe)
 JLLWrappers.@declare_library_product(libshotsolver, "libSHOTSolver.dll")
+JLLWrappers.@declare_executable_product(amplexe)
 function __init__()
     JLLWrappers.@generate_init_header(ASL_jll, Cbc_jll, Ipopt_jll, CompilerSupportLibraries_jll)
-    JLLWrappers.@init_executable_product(
-        amplexe,
-        "bin\\SHOT.exe",
-    )
-
     JLLWrappers.@init_library_product(
         libshotsolver,
         "bin\\libSHOTSolver.dll",
         RTLD_LAZY | RTLD_DEEPBIND,
+    )
+
+    JLLWrappers.@init_executable_product(
+        amplexe,
+        "bin\\SHOT.exe",
     )
 
     JLLWrappers.@generate_init_footer()
